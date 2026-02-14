@@ -1,5 +1,7 @@
 # Cursor Clone - HTML/CSS Assignment
 
+Preview Link : https://cursorvibe.vercel.app/
+
 This project is a pixel-perfect recreation of the Cursor.com landing page, focusing on modern web design principles, responsive layout, and dark mode aesthetics.
 
 ## Recreated Sections
